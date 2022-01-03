@@ -16,14 +16,14 @@
     <!-- navbar -->
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container py-3">
-          <a class="navbar-brand" href="#">Samsan<span class="text-primary">Tech</span></a>
+          <a class="navbar-brand" href="#">Welcome To<span class="text-primary"> Hotline Bencana Alam</span></a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="ms-auto collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav ms-auto">
               <a class="nav-link mx-4 active" aria-current="page" href="/">Home</a>
-              <a href="/home" class="btn btn-primary text-bold">Get In Touch</a>
+              <a href="/home" class="btn btn-primary text-bold">Pelaporan</a>
             </div>
           </div>
         </div>
@@ -35,16 +35,16 @@
           <section class="main d-flex align-items-center justify-content-between">
               <div class="col">
                 <h4 class="text-primary">
-                    <i class="fas fa-sun"></i> <span class="ms-2">Jump start your growth</span>
+                    <i class="fas fa-sun"></i> <span class="ms-2">Sistem Informasi Pelaporan Bencana</span>
                 </h4>
                 <h1 class="title mt-5">
-                    We boost the growth for <span class="text-primary">Startup</span> to fortune 500 companies
+                    Selamat Datang di <span class="text-primary">Pelaporan</span> Bencana Alam
                 </h1>
                 <h5 class="text-secondary mt-5">
-                    Get the most accurate leads, sales people training and conversions, <br>tools and more.
+                    Anda bisa melaporkan semua bencana yang terjadi disini <br>klik pada pelaporan.
                 </h5>
                 <a href="/home" class="btn btn-primary mt-5">
-                Get In Touch</a>
+                Pelaporan</a>
               </div>
               <div>
                   <img src="{{ asset('frontend/img/main.jpg') }}" alt="" class="rounded" width="500">
